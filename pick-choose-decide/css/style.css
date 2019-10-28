@@ -12,9 +12,9 @@ body {
 }
 .btn-ios {
   background: url('../img/Download_on_the_App_Store_Badge_US.svg') no-repeat; 
-  width: 250px; 
-  height: 75px; 
-  background-size: 250px 75px; 
+  width: 240px; 
+  height: 65px; 
+  background-size: 240px 65px; 
   border: none;
 
 }
@@ -23,9 +23,9 @@ button:focus {outline:0;}
 
 .btn-android {
   background: url('../img/download-android.png') no-repeat; 
-  width: 250px; 
-  height: 75px; 
-  background-size: 250px 75px; 
+  width: 240px; 
+  height: 65px; 
+  background-size: 240px 65px;
   border: none;
 }
 
@@ -65,13 +65,13 @@ button:focus {outline:0;}
    margin: 0 20px;
  }
 
- .add-m-r-big {
-   margin-right: 10px;
+ /* .add-m-r-big {
+   margin-right: 5px;
  }
 
  .add-m-l-big {
-  margin-left: 10px;
- }
+  margin-left: 5px;
+ } */
 
  .box-b {
   display: flex; 
