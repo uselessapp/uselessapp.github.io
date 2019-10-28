@@ -66,13 +66,13 @@ button:focus {outline:0;}
    margin: 0 20px;
  }
 
- /* .add-m-r-big {
-   margin-right: 5px;
+ .add-m-r-big {
+   margin-left: -2%;
  }
 
  .add-m-l-big {
-  margin-left: 5px;
- } */
+  margin-left: -1%;
+ }
 
  .box-b {
   display: flex; 
