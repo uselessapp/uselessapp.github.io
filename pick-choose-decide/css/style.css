@@ -10,36 +10,29 @@ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
 }
+.btn-ios {
+  background: url('../img/Download_on_the_App_Store_Badge_US.svg') no-repeat; 
+  width: 250px; 
+  height: 75px; 
+  background-size: 250px 75px; 
+  border: none;
 
-.h4-customize {
-  margin-bottom: 15px;
-}
-.p-customize {
-  margin: 15px 0;
-}
-
-.h5-customize {
-  font-weight: 400;
-  font-size: 14px;
 }
 
-.image-title-customize {
-  font-size: 10px;
-}
+button:focus {outline:0;}
 
-.image-title-customize:link,
-.image-title-customize:visited {
-  color: #676858;
+.btn-android {
+  background: url('../img/download-android.png') no-repeat; 
+  width: 250px; 
+  height: 75px; 
+  background-size: 250px 75px; 
+  border: none;
 }
 
 .nowrap {
   white-space: nowrap;
 }
 
-a:link,
-a:visited {
-  color: #333333;
-}
 @media screen and (max-width: 500px) {
   h1 {
       font-size: 30px;
